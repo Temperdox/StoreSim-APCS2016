@@ -1,4 +1,4 @@
-
+package interfaces.food;
 public class Nuts {
 	name="Assorted Nut"
 	cost=.60;

@@ -1,4 +1,4 @@
-
+package interfaces.food;
 public class CandyBar extends Food {
 	name="Candy Bar";
 	cost=.30;
